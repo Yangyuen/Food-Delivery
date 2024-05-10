@@ -3,9 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "vite": {
-    "port": "https://food-delivery-qd51.onrender.com"
-  },
+  "proxy": "https://food-delivery-qd51.onrender.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
